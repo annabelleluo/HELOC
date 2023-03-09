@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This is the HKU STAT3612 project 2021. This notebook performs interpretable machine learning (IML) with application to a real data case
+This is the HKU STAT3612 project, 2020. This notebook performs interpretable machine learning (IML) with application to a real data case
 study in the banking industry. For an IML model, both “prediction accuracy” and “model explainability”
 are equally important.
 
